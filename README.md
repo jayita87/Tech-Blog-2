@@ -9,6 +9,7 @@ This is a tech blog that allows a user to post about whatever they wish. It supp
 
 ## Screenshot
 <img width="1266" alt="Tech Blog" src="https://user-images.githubusercontent.com/107072905/198821057-0ebf5a13-780c-479a-b532-80e2fdacd88e.png">
+<img width="932" alt="Techblogss" src="https://user-images.githubusercontent.com/107072905/198821173-b6c38d20-ae23-4e20-b3d6-34a7c6887606.png">
 
 ## Technologies
 
