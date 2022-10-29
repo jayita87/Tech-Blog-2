@@ -8,7 +8,8 @@ This is a tech blog that allows a user to post about whatever they wish. It supp
 [URL](https://tech-blog-100.herokuapp.com/)
 
 ## Screenshot
-file:///Users/jayitachowdhury/Desktop/Tech%20Blog.png
+<img width="1266" alt="Tech Blog" src="https://user-images.githubusercontent.com/107072905/198821057-0ebf5a13-780c-479a-b532-80e2fdacd88e.png">
+
 ## Technologies
 
 - Node.js
